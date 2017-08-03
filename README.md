@@ -25,6 +25,6 @@
 self.__username = 'xxx'
 self.__password = 'xxx'
 ```
-然后直接 python alimama.py
+然后直接 `python alimama.py`
 
->怎么样是不是很简单，代码已经上传到github！喜欢的 start 一下！蟹蟹..么么哒！！
+>怎么样是不是很简单！喜欢的 start 一下！蟹蟹..么么哒！！
