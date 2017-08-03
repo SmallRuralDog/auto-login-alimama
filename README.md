@@ -9,9 +9,9 @@
 
 ### 所用需环境：
 
--python3
--requests
--selenium
+- python3
+- requests
+- selenium
 
 ### 实现流程是 
 
