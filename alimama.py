@@ -57,7 +57,7 @@ class Spider(object):
         res = self.req.post('http://pub.alimama.com/common/adzone/selfAdzoneCreate.json', data={
             'tag': '29',
             'gcid': '8',
-            'siteid': '24082855',
+            'siteid': 'xxxxxxxx',#这里改成导购位ID
             'selectact': 'add',
             'newadzonename': name,
             '_tb_token_': self.token
