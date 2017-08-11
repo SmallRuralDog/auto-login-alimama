@@ -27,4 +27,4 @@ self.__password = 'xxx'
 ```
 然后直接 `python alimama.py`
 
->怎么样是不是很简单！喜欢的 start 一下！蟹蟹..么么哒！！
+>怎么样是不是很简单！喜欢的 star 一下！蟹蟹..么么哒！！
