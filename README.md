@@ -20,4 +20,8 @@
 ### 如何使用
 直接 `python alimama.py`
 
->怎么样是不是很简单！喜欢的 star 一下！蟹蟹..么么哒！！
+### 关注我的头条号
+
+![](http://makefriends.bs2dl.yy.com/Coder.jpeg)
+
+头条扫一扫  干货随便找
